@@ -1,3 +1,14 @@
+# Librerias a utilizar
+
+- [materialUI](https://mui.com/material-ui)
+- [tailwindcss](https://tailwindcss.com/docs/installation)
+- [tailwindAnimated](https://www.tailwindcss-animated.com)
+- [Tooltips](https://floating-ui.com/docs)
+- [Elementos3D](https://atroposjs.com)
+- [Slides | Carruseles](https://swiperjs.com)
+- [Snackbar | Notificaciones](https://apvarun.github.io/toastify-js)
+- [Snackbar | Notificaciones](https://fkhadra.github.io/react-toastify/introduction/)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
